@@ -1,16 +1,21 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ianalejandrook14x/ianalejandrook14x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# TewIanIx
 
-Here are some ideas to get you started:
+<img src="https://github.com/user-attachments/assets/b5f6e94b-cb3a-481c-8c2d-5ce4c30300f0" width="110" height="110" style="border-radius: 50%;" alt="ianalejandrook14x - GitHub profile picture"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br>
+
+###  ᴅᴇꜱᴀʀʀᴏʟʟᴀᴅᴏʀ ᴅᴇ ᴘáɢɪɴᴀꜱ ᴡᴇʙ, ʙᴏᴛꜱ ᴅᴇ ᴡʜᴀᴛꜱᴀᴘᴘ ʏ ꜱᴄʀɪᴘᴛꜱ ʙᴀꜱʜ ᴘᴀʀᴀ ᴄᴏɴꜰɪɢᴜʀᴀᴄɪᴏɴᴇꜱ ꜱꜱʜ. 🍃
+<br>
+
+<img src="https://img.shields.io/badge/Web_Development-808080?style=flat-square&logo=html5&logoColor=white">
+<img src="https://img.shields.io/badge/WhatsApp_Bots-666666?style=flat-square&logo=whatsapp&logoColor=white">
+<img src="https://img.shields.io/badge/Bash-999999?style=flat-square&logo=gnubash&logoColor=white">
+<img src="https://img.shields.io/badge/SSH-555555?style=flat-square&logo=openssh&logoColor=white">
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=pulse&height=300&color=gradien&text=%EA%9C%B0%20%C9%AA%20x%20x%20%E1%B4%87%20%E1%B4%85&textBg=false&section=header&reversal=true&fontColor=ffffff" width="60%">
+
+</div>
