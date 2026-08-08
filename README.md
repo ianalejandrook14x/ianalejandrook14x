@@ -1,6 +1,6 @@
 <div align="center">
 
-# TewIanIx
+# TeɯIαɳIx
 
 <img src="https://github.com/user-attachments/assets/b5f6e94b-cb3a-481c-8c2d-5ce4c30300f0" width="110" height="110" style="border-radius: 50%;" alt="ianalejandrook14x - GitHub profile picture"/>
 
