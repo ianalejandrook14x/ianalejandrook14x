@@ -2,7 +2,7 @@
 
 # TeɯIαɳIx
 
-<img src="https://files.catbox.moe/6rroc1.jpg" width="110" height="110" style="border-radius: 50%;" alt="ianalejandrook14x - GitHub profile picture"/>
+<img src="https://tewianix.xyz/folder/tewianix.jpg" width="110" height="110" style="border-radius: 50%;" alt="ianalejandrook14x - GitHub profile picture"/>
 
 <br>
 
